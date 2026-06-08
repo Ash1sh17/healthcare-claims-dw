@@ -1,0 +1,5 @@
+plan_id,plan_name,plan_type,state
+PLN001,Alignment Gold HMO,HMO,CA
+PLN002,Alignment Silver PPO,PPO,CA
+PLN003,Alignment Bronze HMO,HMO,TX
+PLN004,Alignment Premium PPO,PPO,FL

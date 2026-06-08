@@ -1,0 +1,11 @@
+diagnosis_code,description,category,claim_count,total_paid,avg_paid
+E11.9,Type 2 Diabetes without complications,Endocrine,317,1545721.85,4876.09
+N18.3,Chronic kidney disease stage 3,Genitourinary,334,1451433.22,4345.61
+M17.11,Primary osteoarthritis right knee,Musculoskeletal,301,1387300.07,4608.97
+I10,Essential Hypertension,Circulatory,311,1347522.41,4332.87
+E78.5,Hyperlipidemia unspecified,Endocrine,287,1273068.84,4435.78
+Z00.00,General adult medical exam,Preventive,293,1272560.70,4343.21
+F32.1,Major depressive disorder moderate,Mental Health,278,1260385.41,4533.76
+C34.10,Malignant neoplasm of bronchus,Neoplasms,294,1255536.62,4270.53
+J44.1,COPD with acute exacerbation,Respiratory,309,1255320.96,4062.53
+I25.10,Atherosclerotic heart disease,Circulatory,276,1207183.66,4373.85

@@ -1,0 +1,11 @@
+provider_id,provider_name,specialty,city,state
+PRV001,Dr. Sarah Kim,Primary Care,Los Angeles,CA
+PRV002,Dr. James Okafor,Cardiology,Houston,TX
+PRV003,Dr. Maria Lopez,Oncology,Miami,FL
+PRV004,Dr. David Chen,Neurology,San Diego,CA
+PRV005,Dr. Linda Patel,Primary Care,Dallas,TX
+PRV006,Dr. Robert Walsh,Orthopedics,Orlando,FL
+PRV007,Dr. Priya Nair,Endocrinology,Sacramento,CA
+PRV008,Dr. Michael Torres,Emergency Med,Austin,TX
+PRV009,Dr. Angela Brown,Psychiatry,Tampa,FL
+PRV010,Dr. Kevin Nguyen,Pulmonology,Long Beach,CA

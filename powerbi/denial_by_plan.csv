@@ -1,0 +1,5 @@
+plan_name,plan_type,total_claims,denied_claims,denial_rate_pct
+Alignment Silver PPO,PPO,723,147,20.33
+Alignment Bronze HMO,HMO,727,154,21.18
+Alignment Premium PPO,PPO,919,210,22.85
+Alignment Gold HMO,HMO,631,143,22.66

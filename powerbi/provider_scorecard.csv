@@ -1,0 +1,11 @@
+provider_name,specialty,total_claims,total_paid,avg_paid,denial_rate_pct
+Dr. Kevin Nguyen,Pulmonology,285,1209938.35,4245.40,26.67
+Dr. David Chen,Neurology,312,1367560.43,4383.21,20.83
+Dr. Linda Patel,Primary Care,302,1224479.03,4054.57,23.84
+Dr. James Okafor,Cardiology,302,1327302.78,4395.04,21.19
+Dr. Angela Brown,Psychiatry,292,1346552.79,4611.48,22.26
+Dr. Priya Nair,Endocrinology,288,1343037.97,4663.33,18.75
+Dr. Maria Lopez,Oncology,328,1470177.62,4482.25,20.43
+Dr. Sarah Kim,Primary Care,302,1294193.11,4285.41,25.50
+Dr. Robert Walsh,Orthopedics,283,1302902.60,4603.90,19.79
+Dr. Michael Torres,Emergency Med,306,1369889.06,4476.76,18.95
